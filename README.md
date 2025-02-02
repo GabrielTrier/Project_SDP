@@ -38,6 +38,13 @@ PROJECT_SDP
 └── Step4.ipynb            # Code for Step 4
 ```
 
+## **Install dependencies**
+
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ---
 
 ## **Project Steps**
